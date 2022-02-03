@@ -1,10 +1,11 @@
 <img src="https://github.com/brauliolv/brauliolv/blob/main/wordart-removebg-preview.png?raw=true" width="700" height="130"/>
 
-🎲📋💻 Procuro vagas Júnior para Análise/Ciência de Dados<br>
- (⌐■_■) No momento estou praticando Aprendizado de Máquina
+* 🎲📋💻 Procuro vagas Júnior para Análise/Ciência de Dados
+*  (⌐■_■) No momento estou praticando Aprendizado de Máquina
+<br>
 
-Sou formado como Técnico em Informática e Engenheiro Mecânico.<br>
-Conclui a especialização em Análise de Dados do Google pela Coursera.
+* ⚙ Sou formado como Técnico em Informática e Engenheiro Mecânico.
+* 👨‍💻 Conclui a especialização em Análise de Dados do Google pela Coursera.
 
 #### Ferramentas
 
