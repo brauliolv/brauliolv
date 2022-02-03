@@ -1,6 +1,9 @@
-### Hi there 👋
+### Olá, bauntivê 👋
 
-💻 No momento estou procurando vagas Júnior para Análise/Ciência de Dados<br>
-(⌐■_■) Estou praticando Aprendizado de Máquina
+🎲📋💻 Procuro vagas Júnior para Análise/Ciência de Dados<br>
+ (⌐■_■) No momento estou praticando Aprendizado de Máquina
 
-[`Tenho perfil no Kaggle`]('https://www.kaggle.com/brauliolv')
+Sou formado como Técnico em Informática e Engenheiro Mecânico.
+
+[`Tenho perfil no Kaggle`](https://www.kaggle.com/brauliolv)
+[`E no Linkedin`](https://www.linkedin.com/in/brauliolv/)
