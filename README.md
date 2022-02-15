@@ -23,6 +23,7 @@
     <a href="https://www.kaggle.com/brauliolv/pt-br-titanic-machine-learning-competition">🛳Titanic - Machine Learning Competition</a><br>
     <a href="https://www.kaggle.com/brauliolv/machine-learning-course-final-project">🧠Machine Learning Course Final Project</a>
 </p>
+<br>
 <div align="center">
 <a href="https://github.com/brauliolv">
 <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauliolv&layout=compact&langs_count=7&theme=dracula"/>
