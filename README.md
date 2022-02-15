@@ -19,9 +19,9 @@
 <h3 align="center">Projetos
 </h3>
 <p align="center">
-    <a href="https://www.kaggle.com/brauliolv/bike-share-data-analysis-google-capstone-project">🚴‍Bike-share data analysis - Google Capstone Project</a><br>
-    <a href="https://www.kaggle.com/brauliolv/pt-br-titanic-machine-learning-competition">🛳Titanic - Machine Learning Competition</a><br>
-    <a href="https://www.kaggle.com/brauliolv/machine-learning-course-final-project">🧠Machine Learning Course Final Project</a>
+    <a href="https://www.kaggle.com/brauliolv/bike-share-data-analysis-google-capstone-project">🚴‍<code>Bike-share data analysis - Google Capstone Project</code></a><br>
+    <a href="https://www.kaggle.com/brauliolv/pt-br-titanic-machine-learning-competition">🛳<code>Titanic - Machine Learning Competition</code></a><br>
+    <a href="https://www.kaggle.com/brauliolv/machine-learning-course-final-project">🧠<code>Machine Learning Course Final Project</code></a>
 </p>
 <br>
 <div align="center">
