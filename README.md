@@ -20,8 +20,8 @@
 </h3>
 <p align="center">
     <a href="https://www.kaggle.com/brauliolv/bike-share-data-analysis-google-capstone-project">🚴‍<code>Bike-share data analysis - Google Capstone Project</code></a><br>
-    <a href="https://www.kaggle.com/brauliolv/pt-br-titanic-machine-learning-competition">🛳<code>Titanic - Machine Learning Competition</code></a><br>
     <a href="https://www.kaggle.com/brauliolv/advanced-regression-techniques-house-prices">🏡<code>House Prices - Advanced Regression Techniques</code></a><br>
+    <a href="https://www.kaggle.com/brauliolv/pt-br-titanic-machine-learning-competition">🛳<code>Titanic - Machine Learning Competition</code></a><br>
     <a href="https://www.kaggle.com/brauliolv/machine-learning-course-final-project">🧠<code>Machine Learning Course Final Project</code></a>
 </p>
 <br>
