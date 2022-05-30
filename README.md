@@ -2,8 +2,8 @@
 <img src="https://github.com/brauliolv/brauliolv/blob/main/wordart-removebg-preview.png?raw=true" width="700" height="130"/>
 </p>
 <p align="center">
-🎲📋💻 Procuro vagas Júnior para Análise/Ciência de Dados<br>
-(⌐■_■) No momento estou praticando Aprendizado de Máquina
+🎲📋💻 No momento faço pós graduação em Ciência de Dados através do <br>Programa de Especialização em Software da Embraer 🎲📋💻<br>
+(⌐■_■)
 </p>
 <br>
 <p align="center">
