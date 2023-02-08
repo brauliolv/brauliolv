@@ -2,19 +2,11 @@
 <img src="https://github.com/brauliolv/brauliolv/blob/main/wordart-removebg-preview.png?raw=true" width="700" height="130"/>
 </p>
 <p align="center">
-🎲📋💻 No momento faço pós graduação em Ciência de Dados através do <br>Programa de Especialização em Software da Embraer 🎲📋💻<br>
-(⌐■_■)
-</p>
-<br>
-<p align="center">
-⚙ Sou formado como Técnico em Informática e Engenheiro Mecânico.<br>
-👨‍💻 Conclui a especialização em Análise de Dados do Google pela Coursera.
-</p>
-<br>
+
 <h3 align="center">Ferramentas
 </h3>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/><img src="https://github.com/brauliolv/brauliolv/blob/main/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail-removebg-preview.png?raw=true" width="40" height="40"/><img src="https://github.com/brauliolv/brauliolv/blob/main/wolfram-mathematica-3629160-3030300.png?raw=true" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/><img src="https://github.com/brauliolv/brauliolv/blob/main/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-thumbnail-removebg-preview.png?raw=true" width="40" height="40"/><img src="https://github.com/brauliolv/brauliolv/blob/main/wolfram-mathematica-3629160-3030300.png?raw=true" width="40" height="40"/>
 </p>
 <h3 align="center">Projetos
 </h3>
